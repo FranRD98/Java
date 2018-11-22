@@ -1,5 +1,6 @@
 # Números Primos en JAVA.
 
+## Bucle FOR.
 ```java
 public class NumerosPrimos {
 
@@ -23,3 +24,4 @@ public class NumerosPrimos {
 	}
 }
 ```
+## Bucle WHILE.
